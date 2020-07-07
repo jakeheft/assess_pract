@@ -11,5 +11,5 @@
 - `include_deleted_scenes` (increases runtime)
 - `pause_movie` (stops current_progress and holds until play_movie method run)
 - `add_character` (adds character to the end of characters array)
-- `convert_for_tv` (sets hidden_content to true)
+- `convert_for_tv` (sets hidden_content to true, can also change runtime)
 - `change_advertising` (changes tagline)
